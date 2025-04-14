@@ -1,0 +1,18 @@
+{
+	"name": "pte",
+	"version": "1.0.0",
+	"main": "app.js",
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"@google/genai": "^0.8.0",
+		"dotenv": "^16.5.0",
+		"express": "^5.1.0",
+		"express-fileupload": "^1.5.1",
+		"nodemon": "^3.1.9"
+	}
+}
